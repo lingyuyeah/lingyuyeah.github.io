@@ -8,7 +8,7 @@ author: 越越
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../lingyuyeah.github.io
 math: false
 mermaid: true
 
