@@ -27,4 +27,4 @@ int main(){
 }
 ```
 
-![Eu_LEzXUYAMo4E7](/../lingyuyeah.github.io/assets/blog_res/2022-04-04-hello-world.assets/Eu_LEzXUYAMo4E7.jpg)
+![src=http___img31.51tietu.net_pic_2016-121114_20161211144317gyhzu12twq28261.jpg&refer=http___img31.51tietu](/assets/blog_res/2022-04-04-hello-world.assets/src=http___img31.51tietu.net_pic_2016-121114_20161211144317gyhzu12twq28261.jpg&refer=http___img31.51tietu.jpg)
