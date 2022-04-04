@@ -11,7 +11,7 @@ comments: true
 typora-root-url: ../../lingyuyeah.github.io
 math: false
 mermaid: true
-git config -- global http.sslBackend "openssl"
+
 
 
 ---
