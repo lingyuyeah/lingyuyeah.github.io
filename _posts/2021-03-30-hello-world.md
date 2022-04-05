@@ -22,7 +22,7 @@ image:
 
 
 这里可以放代码片段噢～
-```c++
+```c
 //代码片段
 int main(){
   hello world;
